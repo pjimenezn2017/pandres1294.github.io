@@ -1,0 +1,38 @@
+.prueba{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: orange;
+}
+
+.button{
+  background-color: black;
+  color: white;
+  padding:5x;
+  margin:5px;
+}
+
+.main-container{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin:2px;
+}
+.section{
+  border:5px;
+  margin:0px;
+  padding:55px;
+}
+
+.footer{
+  display: flex;
+  align-items: right;
+  justify-content: center;
+  background-color: orange;  
+}
+.derechos{
+  padding: 10px;
+}
